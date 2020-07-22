@@ -119,9 +119,7 @@ class LSTM:
     def preprocess_img(self, img):
         img = image.load_img(img, target_size=(224, 224))
         img = image.img_to_array(img)
-        print(img.shape)
         img = tf.expand_dims(img, axis=0)
-        print(img.shape)
         # Normalisation
         img = preprocess_input(img)
         return img
