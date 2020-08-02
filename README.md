@@ -1,5 +1,5 @@
 # Image Captioning Bot
-### This is a Deep Learning Model that will try to Caption any Image. Check out the Notebook used to train this [here](https://github.com/saksham2001/ImageCaptioning/Training Notebook.ipynb).
+### This is a Deep Learning Model that will try to Caption any Image. Check out the Notebook used to train this [here.](https://github.com/saksham2001/ImageCaptioning/Training%20Notebook.ipynb)
 
 ### Screenshots
 **Image Examples**
